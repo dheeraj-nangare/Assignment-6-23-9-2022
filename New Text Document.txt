@@ -1,0 +1,11 @@
+First send in postman
+http://localhost:5000/postDetails
+
+second
+http://localhost:5000/flighDetails
+
+third
+http://localhost:5000/bookTickets
+
+fourth
+http://localhost:5000/getBookingDetails
